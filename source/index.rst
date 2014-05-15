@@ -23,7 +23,7 @@ slide 1
 
 .. .. XXX This crappy image is merely a place-holder. Need better replacement!
 
-.. image:: food-pyramid-of-meat.jpg
+.. image:: meat-pyramid-001.jpg
    :width: 800 px
 
 .. Bacon and other kinds of meat
@@ -58,14 +58,14 @@ slide 3
 slide 4
 =======
 
-.. [ 1m0s] [slide: Amber "before" in early 2009 or 2008?]
+.. [ 1m0s] [slide: Amber "before" in early 2009 or 2008? -- sorry, I don't agree to that — Am]
 
 .. After we tried everything— *everything* … after we tried everything that the doctors could think of, and she just kept getting worse and worse, then the surprising thing that fixed it was when she started eating only meat.
 
 slide 5
 =======
 
-.. [ 1m15s] [slide: Amber in about 2010?]
+.. [ 1m15s] [slide: Amber in about 2010? ditto]
 
 .. I thought this was kooky and weird, so if you're thinking that this is kooky and weird, I'm right there with you.
 
