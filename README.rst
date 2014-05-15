@@ -5,3 +5,5 @@ try-this-at-home
 ================
 
 BoulderIgnite23 presentation
+
+Run "make", then open the file ./build/slides/index.html
